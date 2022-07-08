@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace TFLWebApp.Controllers
 {
+    //HomeController class is derived from Controller
     public class HomeController : Controller
     {
         // GET: Home
